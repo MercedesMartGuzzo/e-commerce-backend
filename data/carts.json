@@ -1,0 +1,11 @@
+[{
+    "title": "Nuevo Producto",
+    "description": "Descripción del nuevo producto",
+    "code": "NP123",
+    "price": 100,
+    "status": true,
+    "stock": 50,
+    "category": "categoría",
+    "thumbnails": ["url1", "url2"]
+  }
+  ]
